@@ -824,6 +824,7 @@ fill: #4D5AE5;
 
 .review-form-message::placeholder {
     color: var(--NAVY-BLUE-modal, rgba(46, 47, 66, 0.40));
+    
 }
 
 .review-form-message:focus {
